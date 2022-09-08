@@ -1,0 +1,7 @@
+{
+    "require": {
+        "voku/anti-xss": "^4.1.32",
+        "duncan3dc/sessions": "^1.4",
+        "kosinix/grafika": "^2.0"
+    }
+}
